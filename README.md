@@ -9,3 +9,15 @@ Daily tracker for consistency, logic building, and problem-solving.
 ##  Setup
 * **Language:** C++ (`std=c++17`)
 * **Platforms:** [LeetCode](https://leetcode.com/) | [Codeforces](https://codeforces.com/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aishaifrah23/coding-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aishaifrah23/coding-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+<!---LeetCode Topics End-->
