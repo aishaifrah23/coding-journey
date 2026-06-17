@@ -20,4 +20,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aishaifrah23/coding-journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 <!---LeetCode Topics End-->
