@@ -24,6 +24,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
