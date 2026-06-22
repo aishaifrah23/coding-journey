@@ -32,6 +32,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aishaifrah23/coding-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
@@ -59,4 +60,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 <!---LeetCode Topics End-->
