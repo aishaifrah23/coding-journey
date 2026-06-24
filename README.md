@@ -22,6 +22,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
