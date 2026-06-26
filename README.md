@@ -43,6 +43,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0367-valid-perfect-square](https://github.com/aishaifrah23/coding-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/aishaifrah23/coding-journey/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
