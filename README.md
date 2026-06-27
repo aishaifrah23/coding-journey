@@ -45,6 +45,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0400-nth-digit](https://github.com/aishaifrah23/coding-journey/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
