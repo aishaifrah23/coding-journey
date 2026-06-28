@@ -36,6 +36,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aishaifrah23/coding-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
