@@ -42,6 +42,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0007-reverse-integer](https://github.com/aishaifrah23/coding-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
@@ -86,6 +87,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
