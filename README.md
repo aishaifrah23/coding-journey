@@ -58,6 +58,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aishaifrah23/coding-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 ## Two Pointers
@@ -87,6 +88,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## String
