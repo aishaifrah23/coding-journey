@@ -80,6 +80,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/aishaifrah23/coding-journey/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -112,8 +113,13 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aishaifrah23/coding-journey/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
