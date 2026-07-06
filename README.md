@@ -86,6 +86,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
