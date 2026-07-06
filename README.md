@@ -43,6 +43,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0007-reverse-integer](https://github.com/aishaifrah23/coding-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -79,6 +80,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/aishaifrah23/coding-journey/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -94,6 +96,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0001-two-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## String
