@@ -55,6 +55,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
