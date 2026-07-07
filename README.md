@@ -92,6 +92,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/aishaifrah23/coding-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aishaifrah23/coding-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/aishaifrah23/coding-journey/tree/main/0400-nth-digit/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -99,6 +100,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/aishaifrah23/coding-journey/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
