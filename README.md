@@ -48,6 +48,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
 | [0319-bulb-switcher](https://github.com/aishaifrah23/coding-journey/tree/main/0319-bulb-switcher/) | Medium |
@@ -75,6 +76,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/aishaifrah23/coding-journey/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aishaifrah23/coding-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
@@ -112,6 +114,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
