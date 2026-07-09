@@ -89,6 +89,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/aishaifrah23/coding-journey/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/aishaifrah23/coding-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -137,6 +138,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aishaifrah23/coding-journey/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/aishaifrah23/coding-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aishaifrah23/coding-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
