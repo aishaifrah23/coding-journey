@@ -177,12 +177,19 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
