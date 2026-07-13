@@ -116,6 +116,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -151,6 +152,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +202,12 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
