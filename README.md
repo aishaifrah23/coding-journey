@@ -43,6 +43,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0002-add-two-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/aishaifrah23/coding-journey/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aishaifrah23/coding-journey/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/aishaifrah23/coding-journey/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -113,6 +114,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/aishaifrah23/coding-journey/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/aishaifrah23/coding-journey/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -233,6 +235,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/aishaifrah23/coding-journey/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
