@@ -195,6 +195,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
