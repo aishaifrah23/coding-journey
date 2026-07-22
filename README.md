@@ -83,6 +83,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -138,6 +139,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
