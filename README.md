@@ -88,6 +88,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0434-number-of-segments-in-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
