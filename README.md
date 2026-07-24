@@ -77,6 +77,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0061-rotate-list](https://github.com/aishaifrah23/coding-journey/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/aishaifrah23/coding-journey/tree/main/0086-partition-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aishaifrah23/coding-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
@@ -138,6 +139,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0020-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/aishaifrah23/coding-journey/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aishaifrah23/coding-journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
