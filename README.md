@@ -205,6 +205,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,4 +259,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
