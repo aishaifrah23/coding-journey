@@ -103,6 +103,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0232-implement-queue-using-stacks](https://github.com/aishaifrah23/coding-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aishaifrah23/coding-journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0345-reverse-vowels-of-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aishaifrah23/coding-journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Brainteaser
