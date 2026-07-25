@@ -147,6 +147,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0345-reverse-vowels-of-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/aishaifrah23/coding-journey/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aishaifrah23/coding-journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -274,4 +275,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/aishaifrah23/coding-journey/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
