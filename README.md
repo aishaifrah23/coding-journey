@@ -213,6 +213,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aishaifrah23/coding-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -227,6 +228,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aishaifrah23/coding-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -241,6 +243,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aishaifrah23/coding-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -280,6 +283,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aishaifrah23/coding-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
