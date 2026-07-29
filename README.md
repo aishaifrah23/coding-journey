@@ -62,6 +62,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aishaifrah23/coding-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +300,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aishaifrah23/coding-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
