@@ -246,6 +246,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +322,12 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aishaifrah23/coding-journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aishaifrah23/coding-journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
