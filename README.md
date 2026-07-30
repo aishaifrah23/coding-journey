@@ -21,6 +21,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0061-rotate-list](https://github.com/aishaifrah23/coding-journey/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/aishaifrah23/coding-journey/tree/main/0086-partition-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aishaifrah23/coding-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/aishaifrah23/coding-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -200,6 +201,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
@@ -215,6 +217,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0102-binary-tree-level-order-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -245,6 +248,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0102-binary-tree-level-order-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aishaifrah23/coding-journey/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aishaifrah23/coding-journey/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -288,6 +292,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aishaifrah23/coding-journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
