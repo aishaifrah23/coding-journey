@@ -75,6 +75,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+| [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -331,5 +333,6 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
