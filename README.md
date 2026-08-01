@@ -38,6 +38,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0203-remove-linked-list-elements](https://github.com/aishaifrah23/coding-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0319-bulb-switcher](https://github.com/aishaifrah23/coding-journey/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/aishaifrah23/coding-journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0400-nth-digit](https://github.com/aishaifrah23/coding-journey/tree/main/0400-nth-digit/) | Medium |
+| [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
@@ -139,6 +141,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -206,6 +209,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0032-longest-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -343,4 +347,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/aishaifrah23/coding-journey/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
