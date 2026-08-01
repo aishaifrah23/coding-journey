@@ -58,6 +58,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0400-nth-digit](https://github.com/aishaifrah23/coding-journey/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aishaifrah23/coding-journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -295,6 +296,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
