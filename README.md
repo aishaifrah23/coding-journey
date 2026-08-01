@@ -341,5 +341,6 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/aishaifrah23/coding-journey/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
