@@ -227,6 +227,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/aishaifrah23/coding-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -304,6 +305,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/aishaifrah23/coding-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
