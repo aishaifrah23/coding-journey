@@ -63,6 +63,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aishaifrah23/coding-journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -147,6 +148,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -185,6 +187,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -360,4 +363,20 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 <!---LeetCode Topics End-->
