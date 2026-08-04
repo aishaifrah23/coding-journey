@@ -139,6 +139,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0066-plus-one](https://github.com/aishaifrah23/coding-journey/tree/main/0066-plus-one/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/aishaifrah23/coding-journey/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
@@ -314,6 +315,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/aishaifrah23/coding-journey/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aishaifrah23/coding-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0461-hamming-distance](https://github.com/aishaifrah23/coding-journey/tree/main/0461-hamming-distance/) | Easy |
