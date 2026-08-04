@@ -53,6 +53,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0172-factorial-trailing-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/aishaifrah23/coding-journey/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/aishaifrah23/coding-journey/tree/main/0224-basic-calculator/) | Hard |
 | [0319-bulb-switcher](https://github.com/aishaifrah23/coding-journey/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/aishaifrah23/coding-journey/tree/main/0367-valid-perfect-square/) | Easy |
@@ -141,6 +142,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0150-evaluate-reverse-polish-notation](https://github.com/aishaifrah23/coding-journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aishaifrah23/coding-journey/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/aishaifrah23/coding-journey/tree/main/0283-move-zeroes/) | Easy |
@@ -189,6 +191,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -392,4 +395,20 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
