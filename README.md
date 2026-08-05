@@ -154,6 +154,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -229,6 +230,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -334,6 +336,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aishaifrah23/coding-journey/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
