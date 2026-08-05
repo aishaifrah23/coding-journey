@@ -324,6 +324,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0191-number-of-1-bits](https://github.com/aishaifrah23/coding-journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0461-hamming-distance](https://github.com/aishaifrah23/coding-journey/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/aishaifrah23/coding-journey/tree/main/0476-number-complement/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
