@@ -64,6 +64,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aishaifrah23/coding-journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -156,6 +157,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
@@ -236,6 +238,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aishaifrah23/coding-journey/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -393,6 +396,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
@@ -413,10 +417,12 @@ Daily tracker for consistency, logic building, and problem-solving.
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -439,4 +445,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
