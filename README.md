@@ -170,6 +170,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aishaifrah23/coding-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aishaifrah23/coding-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -351,6 +352,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0476-number-complement](https://github.com/aishaifrah23/coding-journey/tree/main/0476-number-complement/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aishaifrah23/coding-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
