@@ -71,6 +71,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aishaifrah23/coding-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -166,6 +167,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
@@ -256,6 +258,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1328-break-a-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/1328-break-a-palindrome/) | Medium |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aishaifrah23/coding-journey/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aishaifrah23/coding-journey/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -271,6 +274,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Tree
@@ -411,6 +415,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Bézout's Lemma
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,12 +438,14 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +475,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
