@@ -92,6 +92,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aishaifrah23/coding-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aishaifrah23/coding-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aishaifrah23/coding-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -172,6 +173,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aishaifrah23/coding-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aishaifrah23/coding-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aishaifrah23/coding-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
 ## String
