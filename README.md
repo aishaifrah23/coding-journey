@@ -70,6 +70,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aishaifrah23/coding-journey/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
@@ -173,6 +174,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1386-cinema-seat-allocation](https://github.com/aishaifrah23/coding-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aishaifrah23/coding-journey/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -264,6 +266,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aishaifrah23/coding-journey/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/aishaifrah23/coding-journey/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Bézout's Lemma
@@ -457,6 +461,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -464,6 +469,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -490,6 +496,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
