@@ -100,6 +100,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aishaifrah23/coding-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aishaifrah23/coding-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -222,6 +223,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aishaifrah23/coding-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +285,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aishaifrah23/coding-journey/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +300,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +484,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aishaifrah23/coding-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
