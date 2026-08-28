@@ -124,6 +124,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aishaifrah23/coding-journey/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aishaifrah23/coding-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +487,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0204-count-primes](https://github.com/aishaifrah23/coding-journey/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aishaifrah23/coding-journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aishaifrah23/coding-journey/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
