@@ -183,6 +183,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/aishaifrah23/coding-journey/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aishaifrah23/coding-journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aishaifrah23/coding-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aishaifrah23/coding-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aishaifrah23/coding-journey/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -252,6 +253,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aishaifrah23/coding-journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aishaifrah23/coding-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -431,6 +433,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aishaifrah23/coding-journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
