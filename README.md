@@ -28,6 +28,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0237-delete-node-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aishaifrah23/coding-journey/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aishaifrah23/coding-journey/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
