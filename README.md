@@ -199,6 +199,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3731-find-missing-elements](https://github.com/aishaifrah23/coding-journey/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/aishaifrah23/coding-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/aishaifrah23/coding-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -524,6 +525,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/aishaifrah23/coding-journey/tree/main/1872-stone-game-viii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/aishaifrah23/coding-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
