@@ -209,6 +209,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0020-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/aishaifrah23/coding-journey/tree/main/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/aishaifrah23/coding-journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aishaifrah23/coding-journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/aishaifrah23/coding-journey/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -276,6 +277,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aishaifrah23/coding-journey/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0115-distinct-subsequences](https://github.com/aishaifrah23/coding-journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/aishaifrah23/coding-journey/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishaifrah23/coding-journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
