@@ -83,6 +83,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aishaifrah23/coding-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/aishaifrah23/coding-journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/aishaifrah23/coding-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
