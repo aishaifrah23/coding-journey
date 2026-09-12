@@ -344,6 +344,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aishaifrah23/coding-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +358,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aishaifrah23/coding-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aishaifrah23/coding-journey/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aishaifrah23/coding-journey/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
@@ -377,6 +379,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0543-diameter-of-binary-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aishaifrah23/coding-journey/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aishaifrah23/coding-journey/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
