@@ -64,6 +64,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0507-perfect-number](https://github.com/aishaifrah23/coding-journey/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/aishaifrah23/coding-journey/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aishaifrah23/coding-journey/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0836-rectangle-overlap](https://github.com/aishaifrah23/coding-journey/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aishaifrah23/coding-journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
@@ -562,4 +563,8 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/aishaifrah23/coding-journey/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
