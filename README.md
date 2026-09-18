@@ -103,6 +103,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishaifrah23/coding-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aishaifrah23/coding-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aishaifrah23/coding-journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishaifrah23/coding-journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aishaifrah23/coding-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aishaifrah23/coding-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -239,6 +240,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1328-break-a-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aishaifrah23/coding-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aishaifrah23/coding-journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishaifrah23/coding-journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/aishaifrah23/coding-journey/tree/main/1927-sum-game/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aishaifrah23/coding-journey/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aishaifrah23/coding-journey/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -279,6 +281,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0169-majority-element](https://github.com/aishaifrah23/coding-journey/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/aishaifrah23/coding-journey/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/aishaifrah23/coding-journey/tree/main/0217-contains-duplicate/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishaifrah23/coding-journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aishaifrah23/coding-journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aishaifrah23/coding-journey/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aishaifrah23/coding-journey/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -316,6 +319,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0678-valid-parenthesis-string](https://github.com/aishaifrah23/coding-journey/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1328-break-a-palindrome](https://github.com/aishaifrah23/coding-journey/tree/main/1328-break-a-palindrome/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/aishaifrah23/coding-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aishaifrah23/coding-journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/aishaifrah23/coding-journey/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/aishaifrah23/coding-journey/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aishaifrah23/coding-journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
