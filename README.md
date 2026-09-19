@@ -69,6 +69,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [1071-greatest-common-divisor-of-strings](https://github.com/aishaifrah23/coding-journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/aishaifrah23/coding-journey/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aishaifrah23/coding-journey/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/aishaifrah23/coding-journey/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/aishaifrah23/coding-journey/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aishaifrah23/coding-journey/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -584,4 +585,5 @@ Daily tracker for consistency, logic building, and problem-solving.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/aishaifrah23/coding-journey/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aishaifrah23/coding-journey/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
