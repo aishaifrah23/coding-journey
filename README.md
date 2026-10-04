@@ -186,6 +186,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | [0287-find-the-duplicate-number](https://github.com/aishaifrah23/coding-journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0486-predict-the-winner](https://github.com/aishaifrah23/coding-journey/tree/main/0486-predict-the-winner/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/aishaifrah23/coding-journey/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/aishaifrah23/coding-journey/tree/main/0877-stone-game/) | Medium |
 | [0997-find-the-town-judge](https://github.com/aishaifrah23/coding-journey/tree/main/0997-find-the-town-judge/) | Easy |
 | [1140-stone-game-ii](https://github.com/aishaifrah23/coding-journey/tree/main/1140-stone-game-ii/) | Medium |
@@ -441,6 +442,7 @@ Daily tracker for consistency, logic building, and problem-solving.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aishaifrah23/coding-journey/tree/main/0048-rotate-image/) | Medium |
 | [0832-flipping-an-image](https://github.com/aishaifrah23/coding-journey/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/aishaifrah23/coding-journey/tree/main/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/aishaifrah23/coding-journey/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aishaifrah23/coding-journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
